@@ -16,9 +16,9 @@
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 ```
-# Повезивање
+## Повезивање
 
-D1(NodeMCU v1.0) са DATA(DHT11)
+* D1(NodeMCU v1.0) * са * DATA(DHT11) *
 
 3.3V(NodeMCU v1.0) са VCC(DHT11)
 
@@ -26,6 +26,10 @@ GND(NodeMCU v1.0) са GND(DHT11)
 
 ![shema](/img/shema.png)
 
-# UI
+## UI
 
-# Serial Monitor
+![UI](/img/UserInterface.png)
+
+## Serial Monitor
+
+![SM](/img/SerialMonitor.png)
