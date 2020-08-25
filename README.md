@@ -7,7 +7,7 @@
 
 ## Захтевано 
 
-``` Arduino
+```c
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
 #include <Hash.h>
@@ -26,7 +26,7 @@
 
 ![shema](/img/shema.png)
 
-## UI
+## User Interface
 
 ![UI](/img/UserInterface.png)
 
