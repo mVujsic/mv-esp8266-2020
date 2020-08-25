@@ -25,7 +25,7 @@ AsyncWebServer server(80);
 
 unsigned long previousMillis = 0;    // Битно за очитавања
 
-// Интервал очитавања са сензора је 10 секунди
+// Интервал очитавања са сензора је 5 секунди
 const long interval = 5000;  
 
 const char index_html[] PROGMEM = R"rawliteral(
